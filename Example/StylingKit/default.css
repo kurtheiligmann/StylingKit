@@ -127,7 +127,7 @@ tab-bar tab-bar-item:selected {
  * Buttons
  * --------------------------------
  */
-.button {
+button {
   border-radius: 3pt;
   color: white;
   background-color: #0096d7;
