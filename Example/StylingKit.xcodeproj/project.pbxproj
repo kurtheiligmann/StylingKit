@@ -2712,7 +2712,7 @@
 				ORGANIZATIONNAME = "Anton Matosov";
 				TargetAttributes = {
 					6003F589195388D20070C39A = {
-						DevelopmentTeam = KGGP62Z8AS;
+						DevelopmentTeam = DFC3PP49F4;
 					};
 					6003F5AD195388D20070C39A = {
 						LastSwiftMigration = 0830;
@@ -3778,12 +3778,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = KGGP62Z8AS;
+				DEVELOPMENT_TEAM = DFC3PP49F4;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "StylingKit/StylingKit-Prefix.pch";
 				INFOPLIST_FILE = "StylingKit/StylingKit-Info.plist";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.StylingKit-ExampleKurt";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -3795,12 +3795,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = KGGP62Z8AS;
+				DEVELOPMENT_TEAM = DFC3PP49F4;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "StylingKit/StylingKit-Prefix.pch";
 				INFOPLIST_FILE = "StylingKit/StylingKit-Info.plist";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.StylingKit-ExampleKurt";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
