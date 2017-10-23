@@ -26,6 +26,10 @@
 
 @implementation STKViewController
 
+- (IBAction)showNextViewController {
+    [self performSegueWithIdentifier:@"showSegue" sender:nil];
+}
+
 - (IBAction)showAlertView
 {
     UIAlertView* alertView = [[UIAlertView alloc] initWithTitle:@"Title"
